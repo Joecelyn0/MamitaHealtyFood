@@ -1,0 +1,7 @@
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\bin\Release\MamitaHealthyFood.exe.config
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\bin\Release\MamitaHealthyFood.exe
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\bin\Release\MamitaHealthyFood.pdb
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\bin\Release\MySql.Data.dll
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\obj\Release\MamitaHealthyFood.csprojResolveAssemblyReference.cache
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\obj\Release\MamitaHealthyFood.exe
+c:\users\majesty-pc\documents\visual studio 2015\Projects\MamitaHealthyFood\MamitaHealthyFood\obj\Release\MamitaHealthyFood.pdb
